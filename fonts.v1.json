@@ -11,8 +11,22 @@
 		},
 		{
 			"id": 1002,
-			"name": "GenWanMin TW",
-			"displayName": "源雲明體",
+			"name": "TWSONG",
+			"displayName": "台灣宋體",
+			"version": 1,
+			"entry": ["labs"]
+		},
+		{
+			"id": 1003,
+			"name": "TWKAI",
+			"displayName": "台灣楷體",
+			"version": 1,
+			"entry": ["labs"]
+		},
+		{
+			"id": 1004,
+			"name": "Tauhu Oo 20.05",
+			"displayName": "豆腐烏",
 			"version": 1,
 			"entry": ["labs"]
 		}
