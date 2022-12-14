@@ -1,0 +1,13 @@
+{
+	"revision": 1,
+	"previewLanguageCodes": ["en", "ja"],
+	"fonts": [
+		{
+			"id": 1001,
+			"name": "Iansui",
+			"displayName": "Iansui",
+			"version": 1,
+			"entry": ["labs"]
+		}
+	]
+}
