@@ -8,6 +8,13 @@
 			"displayName": "Iansui",
 			"version": 1,
 			"entry": ["labs"]
+		},
+		{
+			"id": 1002,
+			"name": "GenWanMin TW",
+			"displayName": "源雲明體",
+			"version": 1,
+			"entry": ["labs"]
 		}
 	]
 }
