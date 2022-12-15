@@ -7,7 +7,7 @@
 			"name": "Iansui 094",
 			"displayName": "Iansui",
 			"version": 1,
-			"entry": ["labs"]
+			"entry": ["labs", "gallery"]
 		},
 		{
 			"id": 1002,
